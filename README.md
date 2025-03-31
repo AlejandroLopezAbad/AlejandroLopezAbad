@@ -6,7 +6,9 @@
 ## Acerca de mí
 
 - 🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma.
-- 🚀 Certificación en Kotlin para el backend.
+- 🎓 Bootcamp de Ciberseguridad (UNIR). Curso de iniciacion en el ambito de ciberseguridad utilizando herramientas como Wazuh y Autopsy. (775 h, 31 ECTS)
+- 🎓 Cursando certificaciones: AWS Certified Developer – Associate, AWS Certified Devops Engineer – professional.
+- 🚀 Certificación en Kotlin para el backend (JetBrains).
 - 👥 Habilidades destacadas: Trabajo en equipo, capacidad para aprender rápidamente, capaz de trabajar bajo presión y cumplir con fechas límites.
 - 💡 Siempre abierto a nuevos retos y desafíos.
 - 🌐 Capaz de desarrollar, implementar, documentar y mantener aplicaciones informáticas multiplataformas.
