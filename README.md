@@ -1,7 +1,7 @@
 
 # ¡Hola! Soy Alejandro López Abad.
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con un título en Desarrollo de Aplicaciones Multiplataforma y una certificación en Kotlin para el backend. Disfruto trabajando en equipo,soy una persona extrovertiva y risueña. Me considero ambicioso para aprender y contribuir en cualquier proyecto.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado programador con un título en Desarrollo de Aplicaciones Multiplataforma y una certificación en Kotlin para el backend. Disfruto trabajando en equipo, soy una persona extrovertiva y risueña. Me considero ambicioso para aprender y contribuir en cualquier proyecto.
 
 ## Acerca de mí
 
